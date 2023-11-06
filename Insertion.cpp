@@ -7,7 +7,7 @@ int main(){
     cout<<"Enter the size:";
     cin>>n;
 
-    int arr[n];
+    int arr[200];
 
     for(int i=0;i<n;i++){
         cout<<"Enter the ele:";
